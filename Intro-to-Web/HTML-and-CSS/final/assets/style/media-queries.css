@@ -54,6 +54,29 @@
         margin-top: 0px;
         margin-bottom: 0px;
     }
+    .roundone {
+    
+        width: 125px;
+        height: 125px;
+     
+      }
+    
+      .roundtwo {
+ 
+        width: 125px;
+        height: 125px;
+   
+      }
+    
+      .roundthree {
+    
+        width: 125px;
+        height: 125px;
+   
+      }
+      .right {
+        width: 450px;
+      }
 }
 
 @media screen and (min-width: 580px) {
@@ -125,6 +148,57 @@
         margin-top: 0px;
         margin-bottom: 0px;
     }
+    article p {
+      
+        font-size: 14px;
+      
+      }
+     
+      
+      article p a {
+       
+        font-size: 14px;
+        
+      }
+      
+       article p a:hover {
+        text-decoration: underline;
+      }
+      
+      article h2{
+     
+        font-size: 20px;
+       
+      }
+      
+      article h1 
+      {
+       
+        font-size: 32px;
+      }
+      .roundone {
+    
+        width: 125px;
+        height: 125px;
+     
+      }
+    
+      .roundtwo {
+ 
+        width: 125px;
+        height: 125px;
+   
+      }
+    
+      .roundthree {
+    
+        width: 125px;
+        height: 125px;
+   
+      }
+      .right {
+        width: 450px;
+      }
 }
 
 @media screen and (min-width: 768px) {
@@ -207,6 +281,59 @@
         margin-top: 80px;
         margin-bottom: 80px;
     }
+
+    article p {
+      
+        font-size: 18px;
+      
+      }
+     
+      
+      article p a {
+       
+        font-size: 18px;
+        
+      }
+      
+       article p a:hover {
+        text-decoration: underline;
+      }
+      
+      article h2{
+     
+        font-size: 26px;
+       
+      }
+      
+      article h1 
+      {
+       
+        font-size: 34px;
+      }
+      .roundone {
+    
+        width: 125px;
+        height: 125px;
+     
+      }
+    
+      .roundtwo {
+ 
+        width: 125px;
+        height: 125px;
+   
+      }
+    
+      .roundthree {
+    
+        width: 125px;
+        height: 125px;
+   
+      }
+      .right {
+         
+        width: 450px;
+      }
 }
 
 @media screen and (min-width: 1024px) {
@@ -290,4 +417,57 @@
         margin-bottom: 80px;
     }
 
+    article p {
+      
+        font-size: 18px;
+      
+      }
+     
+      
+      article p a {
+       
+        font-size: 18px;
+        
+      }
+      
+       article p a:hover {
+        text-decoration: underline;
+      }
+      
+      article h2{
+     
+        font-size: 26px;
+       
+      }
+      
+      article h1 
+      {
+       
+        font-size: 38px;
+      }
+        
+
+      .roundone {
+    
+        width: 115px;
+        height: 115px;
+     
+      }
+    
+      .roundtwo {
+ 
+        width: 115px;
+        height: 115px;
+   
+      }
+    
+      .roundthree {
+    
+        width: 115px;
+        height: 115px;
+   
+      }
+      .right {
+        width: 450px;
+      }
 }

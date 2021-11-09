@@ -820,7 +820,7 @@ section {
 
   .right { 
   
-    width: 450px;
+    
     height: 450px;
     line-height: 1.4;
 
@@ -855,8 +855,7 @@ section {
   .roundone {
     cursor: pointer;
     border:2px solid rgb(182, 182, 182) ;
-    width: 125px;
-    height: 125px;
+   
     overflow: hidden;
     background-color: #81c400;
     border-radius: 256px;
@@ -865,8 +864,7 @@ section {
   .roundtwo {
     cursor: pointer;
     border:2px solid rgb(182, 182, 182) ;
-    width: 125px;
-    height: 125px;
+    
     overflow: hidden;
     background-color: #c4a500;
     border-radius: 256px;
@@ -875,8 +873,7 @@ section {
   .roundthree {
     cursor: pointer;
     border:2px solid rgb(182, 182, 182) ;
-    width: 125px;
-    height: 125px;
+ 
     overflow: hidden;
     background-color: #c44300;
     border-radius: 256px;
@@ -943,7 +940,7 @@ article p {
     margin: 0 auto;
     margin-top: 30px;
     line-height: 1.5;
-    font-size: 18px;
+
     width: 85%;
     text-align: left;
   }
@@ -951,7 +948,7 @@ article p {
   
   article p a {
     text-decoration: none;
-    font-size: 18px;
+   
     color: #0075eb;
   }
   
@@ -964,7 +961,7 @@ article p {
     margin: 0 auto;
     margin-top: 60px;
     text-align: left;
-    font-size: 26px;
+   
     font-weight: 600;
   }
   
@@ -972,7 +969,7 @@ article p {
   {
     margin-top: 60px;
     text-align: center;
-    font-size: 38px;
+    
     font-weight: 600;
   }
   
@@ -984,9 +981,6 @@ article p {
     width: 45%;
   }
 
-  article p:first-child {
-      margin-top: 75px;
-  }
 
   article p:last-child {
     margin-bottom: 75px;
@@ -998,7 +992,9 @@ article p {
   }
 
   .email {
-      text-align: center !important;
+    text-align: center !important;
+    margin-top: 40px;
+    
   }
 
 
@@ -1019,4 +1015,8 @@ article p {
 .white {
     background-color: #ffff;
     height: 500px;
+}
+
+.size {
+    width: 600px !important;
 }
